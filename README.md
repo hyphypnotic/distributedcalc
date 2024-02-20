@@ -1,6 +1,7 @@
 не забудьте переименовать папку на distributedcalc
 
 установите все зависимости:
+
 0. go get github.com/gorilla/sessions
 1. go get distributedcalc/backend/internal/agent/app
 
