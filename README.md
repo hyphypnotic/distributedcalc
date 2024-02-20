@@ -1,3 +1,5 @@
+не забудьте переименовать папку на distributedcalc
+
 0. run in terminal redis-server --daemonize yes 
 2. run in terminal "go mod download"
 3. run in terminal "go build backend/cmd/agent/main.go"
